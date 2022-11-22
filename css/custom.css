@@ -9,3 +9,13 @@ html, body{
 	margin: 0px 5px; padding: 0px;
 	border-radius: 14px;
 }
+
+.row{
+	border: 4px solid gray;
+	box-sizing: border-box;
+}
+
+.col{
+	border: 4px dashed gray;
+	box-sizing: border-box;
+}
